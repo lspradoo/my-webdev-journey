@@ -21,9 +21,9 @@ Exercises are based on the content from [Angela Yu's course](https://www.udemy.c
 - [x] Section 1: Introduction & Setup
 - [x] Section 2: HTML Basics
 - [x] Section 3: Intermediate HTML
-- [ ] Section 4: Introduction to CSS
-- [ ] Section 5: Intermediate CSS
-- [ ] Section 6: Personal Portfolio Website
+- [x] Section 4: Introduction to CSS
+- [x] Section 5: Intermediate CSS
+- [x] Section 6: Personal Portfolio Website
 
 ### Layout & Frameworks
 - [ ] Section 7: Flexbox
